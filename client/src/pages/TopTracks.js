@@ -27,7 +27,7 @@ const TopTracks = () => {
   return (
     <main>
       {topTracks ? (
-        <SectionWrapper title="Top Artists" breadcrumb={true}>
+        <SectionWrapper title="Top Track" breadcrumb={true}>
           <TimeRangeButtons
             activeRange={activeRange}
             setActiveRange={setActiveRange}
