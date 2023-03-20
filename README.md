@@ -4,7 +4,7 @@ About:
 This is a simple application that uses spotify api to get the json file that contains information of
 a spotify account, then display those information artistically based on spotify theme.
 
-![test](http://url/to/img.png](https://vans-spotify-demo.s3.us-east-2.amazonaws.com/login.png)
+![test](https://vans-spotify-demo.s3.us-east-2.amazonaws.com/login.png)
 
 
 
